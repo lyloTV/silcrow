@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss"
+	],
+	"sourcesContent": [
+		".download {\n  .download-icon {\n    display: none;\n  }\n\n  #download-caption {\n    font-style: italic;\n  }\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AACE,SADO,CACP,cAAc,CAAC;EACb,OAAO,EAAE,IAAI;CACd;;AAHH,AAKE,SALO,CAKP,iBAAiB,CAAC;EAChB,UAAU,EAAE,MAAM;CACnB"
+}
