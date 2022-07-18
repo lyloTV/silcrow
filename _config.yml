@@ -1,0 +1,49 @@
+###########
+# site.url, site.title
+
+title: 'SilcroW'
+
+########
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+- README.md
+- Makefile
+
+
+safe: true
+lsi: false
+
+#######
+# Download
+
+os:
+  macos:
+    url: "https://apps.apple.com/app/silcrow/id1602134456"
+    caption: "MacOS 10.13 - High Sierra / 10.14 - Mojave / 10.15 - Catalina / 11.0 - Big Sur / 12.0 - Monterey"
+    anydesk: "TKJykQJ2"
+  windows:
+    url: "https://www.microsoft.com/p/silcrow/9p969t1tt5jk"
+    caption: "Windows 10"
+    anydesk: "xeFEfzYu"
+
+#######
+# translation
+
+index:
+  en: index.md
+  fr: index.fr.md
+t:
+  en:
+    name: "en"
+    download: "Download"
+  fr:
+    name: "fr"
+    download: "Télécharger"
+
