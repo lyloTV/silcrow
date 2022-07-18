@@ -1,0 +1,24 @@
+{
+  "name": "silcrow",
+  "version": "1.0.0",
+  "description": "SilcroW website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyloTV/silcrow.git"
+  },
+  "author": "Martin Delille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyloTV/silcrow/issues"
+  },
+  "homepage": "https://github.com/lyloTV/silcrow#readme",
+  "devDependencies": {
+    "stylelint": "^14.9.1",
+    "stylelint-config-standard-scss": "^5.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-processor-ignore-front-matter": "^1.0.3"
+  }
+}
