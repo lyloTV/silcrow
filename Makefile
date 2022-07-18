@@ -3,3 +3,6 @@ default:
 
 install:
 	bundle install
+
+stylelint:
+	npx stylelint css/*.scss
