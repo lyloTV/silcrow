@@ -3,7 +3,7 @@
 
 title: 'SilcroW'
 
-path: '/silcrow'
+baseurl: '/silcrow'
 
 ########
 # more settings
